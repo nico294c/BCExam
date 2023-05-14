@@ -4,16 +4,18 @@
   "publisher": "Nicolai Barasinski",
   "version": "1.0.0.0",
   "brief": "",
+  "":"",
   "description": "",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
   "url": "",
   "logo": "",
+  "target": "OnPrem",
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "19.0.0.0",
+  "application": "21.0.0.0",
   "idRanges": [
     {
       "from": 50140,
@@ -24,5 +26,6 @@
     "allowDebugging": true,
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
-  }
+  },
+  "runtime": "10.0"
 }
